@@ -1,2 +1,2 @@
 # Matrice
-### A simple c++ for 2D Matrix using templates.
+### A simple C++ class for 2D Matrix using templates.
