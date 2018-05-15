@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/Matrice.h
+iostream
+-
+
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/Matrice_Implementare.cpp
+Matrice.h
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/Matrice.h
+
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/main.cpp
+iostream
+-
+fstream
+-
+Matrice.h
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/Matrice.h
+Matrice_Implementare.cpp
+/cygdrive/c/Users/Alex/Desktop/GithubDesktop/MatriceWithTemplates/Matrice_Implementare.cpp
+
